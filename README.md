@@ -1,1 +1,2 @@
-# FINAL-PROJECT-CS-211-Object-Oriented-Programming
+# Appliance Shop Management System
+
