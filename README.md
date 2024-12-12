@@ -23,6 +23,10 @@
 
 ## IV. INSTRUCTIONS FOR RUNNING THE PROGRAM
 
+**Java Compiler and Runtime Installed:**
+
+ &nbsp;&nbsp;&nbsp;&nbsp;  Use javac to compile and java to run the program.
+
 ### 1. **Run the program.**
    - Make sure that the program is working and doesn’t have any errors.
 
