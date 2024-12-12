@@ -23,10 +23,6 @@
 
 ## IV. INSTRUCTIONS FOR RUNNING THE PROGRAM
 
-Here’s how to get the Appliance Shop Management System up and running:
-
-Certainly! Here's the detailed guide for running the Appliance Shop Management System:
-
 ### 1. **Run the program.**
    - Make sure that the program is working and doesn’t have any errors.
 
